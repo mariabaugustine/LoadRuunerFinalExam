@@ -1,0 +1,11 @@
+[t63]
+FileName1=t63_statuses.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/recruitment/candidates/statuses
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_63.xml
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t63_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+GET /web/index.php/api/v2/admin/job-titles?limit=0 HTTP/1.1
+Referer: https://opensource-demo.orangehrmlive.com/web/index.php/performance/searchEvaluatePerformanceReview
+Accept-Language: en-GB,en;q=0.9
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept: */*
+Connection: Keep-Alive
+Host: opensource-demo.orangehrmlive.com
+Cookie: orangehrm=6edb35b1c4c456d7547e7511ddf3f610
+

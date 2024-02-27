@@ -1,0 +1,140 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: validate",
+                "infFile": "t4.inf",
+                "time": 1708945544389
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: time-at-work",
+                "infFile": "t5.inf",
+                "time": 1708945544761
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: action-summary",
+                "infFile": "t6.inf",
+                "time": 1708945545098
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: shortcuts",
+                "infFile": "t7.inf",
+                "time": 1708945545441
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: feed",
+                "infFile": "t8.inf",
+                "time": 1708945545793
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: locations",
+                "infFile": "t9.inf",
+                "time": 1708945546172
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: leaves",
+                "infFile": "t10.inf",
+                "time": 1708945546550
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: subunit",
+                "infFile": "t11.inf",
+                "time": 1708945546918
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: push",
+                "infFile": "t12.inf",
+                "time": 1708945547213
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: json",
+                "infFile": "t13.inf",
+                "time": 1708945547645
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: viewRecruitmentModule",
+                "infFile": "t14.inf",
+                "time": 1708945548338
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: candidates",
+                "infFile": "t15.inf",
+                "time": 1708945548884
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: statuses",
+                "infFile": "t16.inf",
+                "time": 1708945549198
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: job-titles",
+                "infFile": "t17.inf",
+                "time": 1708945549527
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: hiring-managers",
+                "infFile": "t18.inf",
+                "time": 1708945549856
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: workweek",
+                "infFile": "t19.inf",
+                "time": 1708945550174
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: vacancies",
+                "infFile": "t20.inf",
+                "time": 1708945550503
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: holidays",
+                "infFile": "t21.inf",
+                "time": 1708945550829
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: workweek_2",
+                "infFile": "t22.inf",
+                "time": 1708945551151
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Url: holidays_2",
+                "infFile": "t23.inf",
+                "time": 1708945551475
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Custom Request: json_2",
+                "infFile": "t25.inf",
+                "time": 1708945551554
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: candidates_2",
+                "infFile": "t27.inf",
+                "time": 1708945551983
+            }
+        ],
+        "transactions": []
+    }
+]

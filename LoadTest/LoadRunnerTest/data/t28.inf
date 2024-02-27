@@ -1,0 +1,13 @@
+[t28]
+FileName1=t28.htm
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+Total=2
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t28_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_28.xml
+FileName2=t28_orange.png
+URL2=https://opensource-demo.orangehrmlive.com/web/images/orange.png?v=1706326081969
+[ProtocolInfo]
+ProtocolId=QTWeb

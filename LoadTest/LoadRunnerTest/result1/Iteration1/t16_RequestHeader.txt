@@ -1,0 +1,10 @@
+GET /web/index.php/api/v2/recruitment/candidates/statuses HTTP/1.1
+Referer: https://opensource-demo.orangehrmlive.com/web/index.php/recruitment/viewCandidates
+Accept-Language: en-GB,en;q=0.9
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept: */*
+Connection: Keep-Alive
+Host: opensource-demo.orangehrmlive.com
+Cookie: orangehrm=b5c34ea8c06a495cfe4f895b9972fc51
+

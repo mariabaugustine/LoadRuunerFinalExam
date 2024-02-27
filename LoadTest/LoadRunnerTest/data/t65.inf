@@ -1,0 +1,11 @@
+[t65]
+FileName1=t65_hiring-managers.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/recruitment/hiring-managers?limit=0
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_65.xml
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

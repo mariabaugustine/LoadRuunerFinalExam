@@ -1,0 +1,116 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: json",
+                "infFile": "t4.inf",
+                "time": 1708945570825
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: validate",
+                "infFile": "t5.inf",
+                "time": 1708945572004
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: time-at-work",
+                "infFile": "t6.inf",
+                "time": 1708945572398
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: action-summary",
+                "infFile": "t7.inf",
+                "time": 1708945572798
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: shortcuts",
+                "infFile": "t8.inf",
+                "time": 1708945573155
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: feed",
+                "infFile": "t9.inf",
+                "time": 1708945573579
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: locations",
+                "infFile": "t10.inf",
+                "time": 1708945573934
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: leaves",
+                "infFile": "t11.inf",
+                "time": 1708945574319
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: subunit",
+                "infFile": "t12.inf",
+                "time": 1708945574688
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: push",
+                "infFile": "t13.inf",
+                "time": 1708945575000
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: viewPerformanceModule",
+                "infFile": "t14.inf",
+                "time": 1708945575758
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: subunits",
+                "infFile": "t15.inf",
+                "time": 1708945576136
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: holidays",
+                "infFile": "t16.inf",
+                "time": 1708945576492
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: reviews",
+                "infFile": "t17.inf",
+                "time": 1708945576891
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: job-titles",
+                "infFile": "t18.inf",
+                "time": 1708945577254
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: workweek",
+                "infFile": "t19.inf",
+                "time": 1708945577624
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: holidays_2",
+                "infFile": "t20.inf",
+                "time": 1708945578033
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: workweek_2",
+                "infFile": "t21.inf",
+                "time": 1708945578494
+            }
+        ],
+        "transactions": []
+    }
+]

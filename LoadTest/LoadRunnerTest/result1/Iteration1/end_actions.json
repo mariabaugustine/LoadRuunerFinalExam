@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: logout",
+                "infFile": "t28.inf",
+                "time": 1708945552624
+            }
+        ],
+        "transactions": []
+    }
+]

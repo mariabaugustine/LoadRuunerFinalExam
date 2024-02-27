@@ -1,0 +1,17 @@
+[t75]
+FileName1=t75_candidates.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/recruitment/candidates?limit=50&offset=0&jobTitleId=22&vacancyId=5&hiringManagerId=37&fromDate=2024-02-07&toDate=2024-02-20&status=1&methodOfApplication=1&model=list&sortField=candidate.dateOfApplication&sortOrder=DESC
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t75_ResponseHeader.txt
+FileName2=t75_ChVDaHJvbWUvMTIxLjAuNjE2Ny4xODUSLgmvRdcr27wKahIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4h0bnH-GOJbckSGQmvTyx_rP-tUxIFDZFhlU4h1l-du2cT_SA=.txt
+URL2=https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTIxLjAuNjE2Ny4xODUSLgmvRdcr27wKahIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4h0bnH-GOJbckSGQmvTyx_rP-tUxIFDZFhlU4h1l-du2cT_SA=?alt=proto
+FileName3=t75_ChVDaHJvbWUvMTIxLjAuNjE2Ny4xODUSGQmvTyx_rP-tUxIFDZFhlU4h6E8bpikV0W4=.txt
+URL3=https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTIxLjAuNjE2Ny4xODUSGQmvTyx_rP-tUxIFDZFhlU4h6E8bpikV0W4=?alt=proto
+FileName4=t75_ChVDaHJvbWUvMTIxLjAuNjE2Ny4xODUSLgmvRdcr27wKahIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4h0bnH-GOJbck=.txt
+URL4=https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTIxLjAuNjE2Ny4xODUSLgmvRdcr27wKahIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4h0bnH-GOJbck=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,22 @@
+[t4]
+FileName2=t2_3_chunk-vendors.UNK
+RawStepEndTime=1708945570544
+FileName5=t2_0_chunk-vendors.css
+FileName4=t2_1_app.UNK
+RequestBodyFile=t4_RequestBody.txt
+RawStepName=json
+ContentType=application/json
+URL1=http://update.googleapis.com/service/update2/json?cup2key=13:y91o_UqDKaqfF7M8_S1Cjcb9Lmnc4E0nDNxEAnBhaOA&cup2hreq=e530cf5f85a70ca1690e1a14c9dfe4a637171977ca8fbbe2fbe49007ebe0cca0
+URL2=https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969
+URL3=https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1706326081969
+ResponseHeaderFile=t4_ResponseHeader.txt
+URL4=https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969
+URL5=https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1706326081969
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1708945570160
+Total=5
+StepName=Custom Request: json
+FileName1=t4.json
+FileName3=t2_2_app.css
